@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch="https://android.googlesource.com/" name="aosp"  revision="refs/tags/android-6.0.1_r55" review="https://android-review.googlesource.com/"/>
   <remote fetch="https://github.com/geekboxzone" name="geekbox"/>
-  <default fetch="geekbox" revision="refs/heads/geekbox" sync-j="4" />
+  <default remote="geekbox" revision="refs/heads/geekbox" sync-j="4" />
 
   <project  name="mmallow_RKDocs" path="RKDocs"  revision="ad1357afedeffdaff616cc6610be457204bffac4"/>
   <project  name="mmallow_RKTools" path="RKTools"  revision="b15b6b2efe35dc38f5f9c9c8626ba23659503c97"/>
