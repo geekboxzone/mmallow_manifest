@@ -406,7 +406,7 @@
   <project  name="mmallow_packages_wallpapers_MagicSmoke" path="packages/wallpapers/MagicSmoke" revision="9ef49eca8122fd8c8933eea1a7d5d489318b6b03"/>
   <project  name="mmallow_packages_wallpapers_NoiseField" path="packages/wallpapers/NoiseField" revision="5ecfed31d5b3fbcde85c266562b8c4a7c2195436"/>
   <project  name="mmallow_packages_wallpapers_PhaseBeam" path="packages/wallpapers/PhaseBeam" revision="f2ab5fedbce1c3ae0400ea79468f17d943146770"/>
-  <project  name="mmallow_pdk" path= revision="708589163e790eb3a7fec09f4832a0f78999bdf3"/>
+  <project  name="mmallow_pdk" path="pdk" revision="708589163e790eb3a7fec09f4832a0f78999bdf3"/>
   <project  name="mmallow_platform_testing" path="platform_testing" revision="7d9a76ce662d0ed420f98b420ac9c657f6adcfe5"/>
   <project  name="mmallow_prebuilts_android-emulator" path="prebuilts/android-emulator" revision="b728a257b2a06f1d18b7349dc2e90bebd013bbd4"/>
   <project  name="mmallow_prebuilts_clang_darwin-x86_host_3.6" path="prebuilts/clang/darwin-x86/host/3.6" revision="3c60fb5744ce4fbde988fbc24e38a8d9e5a58e59"/>
