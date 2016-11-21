@@ -454,7 +454,7 @@
   <project  name="mmallow_device_rockchip_rk3368" path="device/rockchip/rk3368"  revision="1111d5fef5276586f5d12a030df935e295932286" upstream="e0322443c0cf7a42895f7e19ed4013bbfcce4497">
     <copyfile dest="buildspec.mk" src="buildspec.mk"/>
   </project>
-  <project name="mmallow_device_rockchip_rksdk" path="device/rockchip/common"  revision="71fc102373fc38581e4dc2684b87e8e9606996a3" upstream="b13ad4663e46f1fe04f93b9d7a6f4434f5e9741e">
+  <project name="mmallow_device_rockchip_common" path="device/rockchip/common"  revision="71fc102373fc38581e4dc2684b87e8e9606996a3" upstream="b13ad4663e46f1fe04f93b9d7a6f4434f5e9741e">
     <copyfile dest=".classpath" src=".classpath"/>
     <copyfile dest="mkimage.sh" src="mkimage.sh"/>
   </project>
